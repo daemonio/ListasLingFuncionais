@@ -1,2 +1,2 @@
 # ListasLingFuncionais
-Listas da disciplina Linguagems Funcionais do professor Camarao
+Listas da disciplina LinguageNs Funcionais do professor Camarao
